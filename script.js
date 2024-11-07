@@ -44,7 +44,7 @@ function loadNewWord() {
 
 // 사용자의 답을 Gemini API를 사용해 평가
 function evaluateAnswer(answer) {
-  const apiKey = 'YOUR_GEMINI_API_KEY';
+  const apiKey = atob(encodedAPIKey);
   const model = 'gemini-1.5-flash-latest';
   const strictness = strictnessSelect.value;
 
