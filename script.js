@@ -57,7 +57,7 @@ function evaluateAnswer(answer) {
   `;
 
   // Gemini API 요청
-  fetch(https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}, {
+  fetch('https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
