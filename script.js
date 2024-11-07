@@ -57,7 +57,7 @@ function evaluateAnswer(answer) {
   `;
 
   // Gemini API 요청
-  fetch(`https://cors-anywhere.herokuapp.com/https://generativelanguage.googleapis.com/v1beta2/models/${model}:generateContent?key=${apiKey}`, {
+  fetch(https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
