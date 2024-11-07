@@ -1,0 +1,153 @@
+/* 기본 스타일 초기화 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #6e8efb, #a777e3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #333;
+  margin: 0;
+}
+
+/* 앱 전체 컨테이너 */
+#app {
+  background-color: #ffffff;
+  width: 90%;
+  max-width: 600px;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* 헤더 스타일 */
+header h1 {
+  font-size: 1.8rem;
+  color: #4b4b7c;
+  margin-bottom: 10px;
+}
+
+#settings {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+#settings label {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+#settings select {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+}
+
+/* 문제 영역 스타일 */
+#question-container {
+  background-color: #f0f4ff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: inset 0px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+#question {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+/* 답변 입력과 버튼 스타일 */
+#answer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+#answer {
+  width: 80%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 1rem;
+  outline: none;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.2s;
+}
+
+#answer:focus {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+#submit {
+  padding: 10px 20px;
+  background-color: #4b4b7c;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+#submit:hover {
+  background-color: #3a3a66;
+}
+
+/* 피드백 영역 */
+#feedback {
+  font-size: 1rem;
+  color: #3a3a66;
+  margin-top: 10px;
+  min-height: 20px;
+}
+
+/* 푸터 버튼 스타일 */
+footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+footer button {
+  padding: 10px 15px;
+  background-color: #a777e3;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+footer button:hover {
+  background-color: #8f6ac4;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 500px) {
+  #app {
+    padding: 15px;
+  }
+
+  header h1 {
+    font-size: 1.5rem;
+  }
+
+  #answer {
+    width: 90%;
+  }
+}

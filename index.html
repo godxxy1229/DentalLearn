@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>치과 용어 학습 프로그램</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>치과 용어 학습 프로그램</h1>
+      <div id="settings">
+        <label for="difficulty">난이도:</label>
+        <select id="difficulty">
+          <option value="easy">쉬움</option>
+          <option value="medium">보통</option>
+          <option value="hard">어려움</option>
+        </select>
+        <label for="strictness">정답 기준:</label>
+        <select id="strictness">
+          <option value="lenient">유연함</option>
+          <option value="strict">엄격함</option>
+        </select>
+      </div>
+    </header>
+    
+    <main>
+      <div id="question-container">
+        <p id="question">여기에 용어에 대한 설명이 표시됩니다.</p>
+      </div>
+      <div id="answer-container">
+        <input type="text" id="answer" placeholder="정답을 입력하세요">
+        <button id="submit">제출</button>
+      </div>
+      <div id="feedback"></div>
+    </main>
+    
+    <footer>
+      <button id="next">다음 문제</button>
+      <button id="save-progress">진행 상황 저장</button>
+      <button id="load-progress">진행 상황 불러오기</button>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

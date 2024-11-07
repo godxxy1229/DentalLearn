@@ -1,0 +1,2576 @@
+[
+  {
+    "term": "Enamel",
+    "abbreviation": null,
+    "definition": "법랑질",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Dentin",
+    "abbreviation": null,
+    "definition": "상아질",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Pulp",
+    "abbreviation": null,
+    "definition": "치수",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cementum",
+    "abbreviation": null,
+    "definition": "백악질",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Periodontal membrane",
+    "abbreviation": null,
+    "definition": "치근막",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Periodontal ligament",
+    "abbreviation": null,
+    "definition": "치주인대",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Alveolar bone",
+    "abbreviation": "Bone",
+    "definition": "치조골",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Crown",
+    "abbreviation": "Cr",
+    "definition": "치관",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cornal",
+    "abbreviation": null,
+    "definition": "치관측",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Root",
+    "abbreviation": "R",
+    "definition": "치근",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Apical",
+    "abbreviation": null,
+    "definition": "치근측",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cervical",
+    "abbreviation": "Cer",
+    "definition": "치경부",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Proximal",
+    "abbreviation": "Prox",
+    "definition": "인접면",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Periodontal tissue",
+    "abbreviation": "Perio",
+    "definition": "치아주위 조직",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Gingiva; Gum",
+    "abbreviation": null,
+    "definition": "치은",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Free gingiva",
+    "abbreviation": null,
+    "definition": "유리 치은",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Marginal gingiva",
+    "abbreviation": null,
+    "definition": "변연 치은",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Attached gingiva",
+    "abbreviation": null,
+    "definition": "부착 치은",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Interdental gingiva",
+    "abbreviation": null,
+    "definition": "치간 치은",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Papilla gingiva",
+    "abbreviation": null,
+    "definition": "유두부 치은",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Fissure",
+    "abbreviation": null,
+    "definition": "열구",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Pit",
+    "abbreviation": null,
+    "definition": "소와",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Groove",
+    "abbreviation": null,
+    "definition": "구, 고랑",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cusp",
+    "abbreviation": null,
+    "definition": "교두",
+    "additional_info": null,
+    "category": "치아구조",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Incisor",
+    "abbreviation": null,
+    "definition": "절치, 전치",
+    "additional_info": "앞니",
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Central incisor",
+    "abbreviation": null,
+    "definition": "중절치",
+    "additional_info": "한가운데 위치한 앞니",
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Canine",
+    "abbreviation": null,
+    "definition": "견치",
+    "additional_info": "송곳니",
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Premolar",
+    "abbreviation": null,
+    "definition": "소구치",
+    "additional_info": "작은어금니",
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Molar",
+    "abbreviation": null,
+    "definition": "대구치",
+    "additional_info": "큰어금니",
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Wisdom tooth",
+    "abbreviation": null,
+    "definition": "지치",
+    "additional_info": "사랑니",
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Upper",
+    "abbreviation": "U",
+    "definition": "상악",
+    "additional_info": "위",
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Lower",
+    "abbreviation": "L",
+    "definition": "하악",
+    "additional_info": "아래",
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Mesial",
+    "abbreviation": "M",
+    "definition": "근심측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Distal",
+    "abbreviation": "D",
+    "definition": "원심측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Labial",
+    "abbreviation": null,
+    "definition": "순측",
+    "additional_info": "입술 쪽 면",
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Buccal",
+    "abbreviation": "B",
+    "definition": "협측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Ligual",
+    "abbreviation": "L",
+    "definition": "설측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Palatal",
+    "abbreviation": "P",
+    "definition": "천정측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Incisal",
+    "abbreviation": "I",
+    "definition": "절단측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Occlusal",
+    "abbreviation": "O",
+    "definition": "교합측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Mesio-Occlusal",
+    "abbreviation": "MO",
+    "definition": "근심 교합측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Disto-Occlusal",
+    "abbreviation": "DO",
+    "definition": "원심 교합측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Mesio-Occulsal-Distal",
+    "abbreviation": "MOD",
+    "definition": "근원심 교합측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Linguo-Occlusal",
+    "abbreviation": "LO",
+    "definition": "설측 교합측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Bucco-Occlusal",
+    "abbreviation": "BO",
+    "definition": "협측 교합측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Mesio-Ligual",
+    "abbreviation": "ML",
+    "definition": "근심측 설측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Mesio-Buccal",
+    "abbreviation": "MB",
+    "definition": "원심측 협측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Disto-Lingual",
+    "abbreviation": "DL",
+    "definition": "원심측 설측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Disto-Buccal",
+    "abbreviation": "DB",
+    "definition": "원심측 협측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Mesio-Incisal",
+    "abbreviation": "MI",
+    "definition": "근심 절단측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Disto-Incisal",
+    "abbreviation": "DI",
+    "definition": "원심 절단측",
+    "additional_info": null,
+    "category": "치아위치",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Patient",
+    "abbreviation": "Pt",
+    "definition": "환자",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Dental hygienist",
+    "abbreviation": "DH",
+    "definition": "치과위생사",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Charting",
+    "abbreviation": null,
+    "definition": "차트기록, 진료기록",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Past Medical History",
+    "abbreviation": "PMH",
+    "definition": "과거병력",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Past Dental History",
+    "abbreviation": "PDH",
+    "definition": "과거치과병력",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Diabetes mellitus",
+    "abbreviation": "DM",
+    "definition": "당뇨",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Hepatitis",
+    "abbreviation": "Hepa",
+    "definition": "간염",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Hepatitis B",
+    "abbreviation": "Hepa B",
+    "definition": "B형간염",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Blood pressure",
+    "abbreviation": "BP",
+    "definition": "혈압",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Hypertension",
+    "abbreviation": "HT",
+    "definition": "고혈압",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Hypotension",
+    "abbreviation": null,
+    "definition": "저혈압",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cancer",
+    "abbreviation": null,
+    "definition": "암",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Tuberculosis",
+    "abbreviation": null,
+    "definition": "결핵",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Leukemia",
+    "abbreviation": null,
+    "definition": "백혈병",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Traffic accident",
+    "abbreviation": "TA",
+    "definition": "교통사고",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Chief Complaints",
+    "abbreviation": "CC",
+    "definition": "주소",
+    "additional_info": "환자가 호소하는 주된 증상",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Present Illness",
+    "abbreviation": "P/I",
+    "definition": "현증",
+    "additional_info": "증상이 언제부터 시작되어, 어떻게 아팠는지, 현재 상태는 어떤지 기록하는 것",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Diagnosis",
+    "abbreviation": "DX",
+    "definition": "진단",
+    "additional_info": "의사의 진단결과를 적는다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "SOAP",
+    "abbreviation": null,
+    "definition": "subjective, objective, assessment, plan",
+    "additional_info": "주관적 소견, 객관적 소견, 평가, 계획",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Radiographic O",
+    "abbreviation": "RO",
+    "definition": "방사선 소견",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Clinical O",
+    "abbreviation": "CO",
+    "definition": "임상적 소견",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Within Normal Limits",
+    "abbreviation": "WNL",
+    "definition": "정상 제한범위 내",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Non Specific",
+    "abbreviation": "NS",
+    "definition": "정상",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Prognosis",
+    "abbreviation": null,
+    "definition": "예후",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Next",
+    "abbreviation": "NS",
+    "definition": "다음 치료",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Symptom",
+    "abbreviation": "S",
+    "definition": "증상",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Oral Hygiene",
+    "abbreviation": "O/H",
+    "definition": "구강위생",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Recommendation",
+    "abbreviation": "Rec",
+    "definition": "추천, 권고",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Treatment plan",
+    "abbreviation": "Tx plan",
+    "definition": "치료계획",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Percussion",
+    "abbreviation": "P/R(+,-)",
+    "definition": "타진",
+    "additional_info": "환부를 손이나 물체로 쳐 보며 진찰하는 것",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Palpation",
+    "abbreviation": null,
+    "definition": "촉진",
+    "additional_info": "환부를 손끝으로 만져보며 진찰하는 것",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Electric Pulp Test",
+    "abbreviation": "EPT",
+    "definition": "전기치수검사",
+    "additional_info": "전기적 치수 생활력 검사로, 약한 전류를 치아에 흘려서 그 반응을 보고 치수 괴사의 유무를 판별하는 검사",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Pain",
+    "abbreviation": null,
+    "definition": "동통, 통증",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Periapical View",
+    "abbreviation": "Peri",
+    "definition": "치근단 방사선",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Panoramic View",
+    "abbreviation": "Pano, Panex",
+    "definition": "파노라마 방사선",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "ConeBeam",
+    "abbreviation": "CT",
+    "definition": "치과용 CT",
+    "additional_info": "3차원 입체 방사선 영상",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Postero Anterior",
+    "abbreviation": "PA",
+    "definition": "전후방 방사선",
+    "additional_info": "교정 치료에 주로 쓰이는 사진으로, 정면 모습으로 채득된다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Lateral Cephalometric",
+    "abbreviation": "CEP",
+    "definition": "두부 계측 방사선",
+    "additional_info": "교정 치료나 악교정 수술 등에 반드시 필요한 방사선 사진으로, 옆모습으로 채득된다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Blurring",
+    "abbreviation": null,
+    "definition": "상흐림",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Elogation",
+    "abbreviation": null,
+    "definition": "상연장",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Shortening",
+    "abbreviation": null,
+    "definition": "상단축",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Radiopaque",
+    "abbreviation": null,
+    "definition": "방사선 불투과성",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Radiolucent",
+    "abbreviation": null,
+    "definition": "방사선 투과성",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Bite wing Radiograph",
+    "abbreviation": null,
+    "definition": "교익 방사선 촬영",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Caries",
+    "abbreviation": "C",
+    "definition": "충치, 치아 우식증",
+    "additional_info": "충치의 진행 단계에 따른 약어 표시는 뒤의 숫자가 커질수록 충치가 심해진다. (C1, C2, C3, C4)",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Secondary caries",
+    "abbreviation": "2nd caries",
+    "definition": "2차 치아 우식증",
+    "additional_info": "2차 충치",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Mobility",
+    "abbreviation": "Mob+ ~ Mob+++",
+    "definition": "치아동요",
+    "additional_info": "동요도가 커질수록 '+'가 늘어난다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Vital tooh",
+    "abbreviation": null,
+    "definition": "생활치",
+    "additional_info": "신경이 살아있는 치아",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Non-vital tooth",
+    "abbreviation": null,
+    "definition": "실활치",
+    "additional_info": "신경이 죽은 치아",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Missing tooth",
+    "abbreviation": null,
+    "definition": "결손치",
+    "additional_info": "상실된 치아",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Supernumerary tooth",
+    "abbreviation": null,
+    "definition": "과잉치",
+    "additional_info": "원래 있어야 하는 치아 외에 과잉으로 발생한 치아. (번호표시 예: #19, 위치표시 예: #11^21)",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Root Rest; Retained Root",
+    "abbreviation": "RR",
+    "definition": "잔존치근",
+    "additional_info": "치조골 내에 남아있는 치아뿌리",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Eruption",
+    "abbreviation": null,
+    "definition": "맹출",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Semi eruption",
+    "abbreviation": null,
+    "definition": "부분맹출",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Unerupted tooth",
+    "abbreviation": null,
+    "definition": "미맹출치아",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Impacted teeth",
+    "abbreviation": null,
+    "definition": "매복치아",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Extrusion",
+    "abbreviation": null,
+    "definition": "정출 익스트루전",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Abrasion",
+    "abbreviation": "Abr",
+    "definition": "마모",
+    "additional_info": "치아의 옆면이 닳거나 파이는 것",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cervical Abrasion",
+    "abbreviation": "C.Abr",
+    "definition": "치경부마모",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Abfraction",
+    "abbreviation": "Abf",
+    "definition": "굴곡파절",
+    "additional_info": "교합압에 의한 치아의 변형, 쐐기모양(V)의 함몰이나 날카롭게 깨진 모양이다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Attrition",
+    "abbreviation": "Att",
+    "definition": "교모",
+    "additional_info": "교합면이 마모되어 있는 상태이다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Erosion",
+    "abbreviation": null,
+    "definition": "침식/부식",
+    "additional_info": "세균에 기인하지 않은 화학적 작용에 의한 치질의 상실, 과다한 산에 노출되었을 경우 발생한다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Crack",
+    "abbreviation": null,
+    "definition": "균열",
+    "additional_info": "치아가 수직 또는 수평으로 금이 가 있는 상태이다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Micro crack",
+    "abbreviation": null,
+    "definition": "잔금",
+    "additional_info": "씹는 힘이 세거나 악습관이 있는 환자의 경우 법랑질 표면에 있는 작은 잔금이다. 다수의 치아에 나타난다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Fracture",
+    "abbreviation": "Fx",
+    "definition": "파절",
+    "additional_info": "치아가 부러진 상태이다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Abscess",
+    "abbreviation": "Abs",
+    "definition": "농양",
+    "additional_info": "고름 주머니",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Fistula",
+    "abbreviation": "Ft",
+    "definition": "누공",
+    "additional_info": "심부의 염증과 점막이 연결되어 점막에 동그랗게 나타나는 병적 조직이다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Pus",
+    "abbreviation": null,
+    "definition": "고름",
+    "additional_info": "화농성균에 의해 피부와 근육이 상하여 생긴 황색 또는 황록색의 액체이다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cellulitis",
+    "abbreviation": null,
+    "definition": "봉와직염",
+    "additional_info": "급성세균 감염증",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Apical lesion",
+    "abbreviation": null,
+    "definition": "치근단병소",
+    "additional_info": "치아뿌리끝 쪽에 생긴 병변",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Ulcer",
+    "abbreviation": null,
+    "definition": "구강내 궤양",
+    "additional_info": "연조직이 헐었을 때를 칭하는 단어이다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Gingival recession",
+    "abbreviation": null,
+    "definition": "치은퇴축",
+    "additional_info": "여러 가지 원인으로 잇몸이 상실되어 치근이 드러난 상태",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Food impaction ; Food packing",
+    "abbreviation": null,
+    "definition": "식편압입",
+    "additional_info": "음식물이 치아 사이에 끼는 것",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Redness",
+    "abbreviation": null,
+    "definition": "발적",
+    "additional_info": "연조직이 붉은 빛을 띄고 있는 상태",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Bleeding",
+    "abbreviation": null,
+    "definition": "출혈",
+    "additional_info": null,
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Swelling",
+    "abbreviation": null,
+    "definition": "종창",
+    "additional_info": "연조직이 부어있는 상태",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Deciduous dentition",
+    "abbreviation": null,
+    "definition": "유치열기",
+    "additional_info": "입안이 젖니로만 구성되어 있는 시기로, 약 만 6세 까지이다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Mixed dentition",
+    "abbreviation": null,
+    "definition": "혼합치열기",
+    "additional_info": "입안이 젖니와 영구치가 혼합되어 있는 시기로, 약 만 6세~만 12세까지이다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Permanent dentition",
+    "abbreviation": null,
+    "definition": "영구치열기",
+    "additional_info": "입안이 영구치로만 구성되어 있는 시기로, 약 만 12세 이후부터이다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Malocclusion",
+    "abbreviation": null,
+    "definition": "부정교합",
+    "additional_info": "치아의 배열이 아름답지 못하거나 정상교합이 아닌 상태를 말한다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Malocclusion 1",
+    "abbreviation": "Class 1",
+    "definition": "1급 부정교합",
+    "additional_info": "구치부의 교합은 정상이나 전치부가 부정교합인 경우",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Malocclusion 2",
+    "abbreviation": "Class 2",
+    "definition": "2급 부정교합",
+    "additional_info": "상악의 어금니가 하악의 어금니보다 앞으로 나와있는 경우",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Malocclusion 3",
+    "abbreviation": "Class 3",
+    "definition": "3급 부정교합",
+    "additional_info": "2급과 반대로, 하악이 상악보다 앞으로 나와있는 경우",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Open Bite",
+    "abbreviation": null,
+    "definition": "개방교합",
+    "additional_info": "위 아래 앞니가 서로 닿지 않고 떠 있는 경우",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Deep Bite",
+    "abbreviation": null,
+    "definition": "과개교합",
+    "additional_info": "위 앞니가 아래 치아를 2/3 이상 덮고 있는 경우",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Interdental Space",
+    "abbreviation": "Space, V",
+    "definition": "치간 공극",
+    "additional_info": "치아 사이가 벌어진 것을 말한다.",
+    "category": "진단",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "H2O2",
+    "abbreviation": null,
+    "definition": "과산화수소",
+    "additional_info": "소독 효과가 있고, 혈액과 닿으면 거품이 나면서 지혈을 돕는다. 색은 없으나 시큼한 냄새가 있고 원액으로 쓰기도 하나 주로 희석하여 사용한다.",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "NaOCl",
+    "abbreviation": null,
+    "definition": "차아염소산나트륨",
+    "additional_info": "신경치료 시 사용되는 근관 소독액으로, 락스를 ",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Dycal",
+    "abbreviation": null,
+    "definition": "다이칼",
+    "additional_info": "수산화칼륨으로 심한 충치에 사용한다.",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Hexamedine",
+    "abbreviation": "Hexa",
+    "definition": "헥사메딘",
+    "additional_info": "클로르헥시딘 성분의 소독용 투명한 액으로, 특유의 향이 있다. 삼키지 않도록 주의해야 하고, 피부나 옷에 닿지 않도록 해야 한다.",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Saline",
+    "abbreviation": null,
+    "definition": "셀라인",
+    "additional_info": "식염수로, 구강내를 소독할 때 뿌리는 짭짤한 소금맛의 액체",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Betadine",
+    "abbreviation": null,
+    "definition": "베타딘",
+    "additional_info": "환부를 소독할 때 쓰이는 짙은 갈색의 소독약",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Potadine",
+    "abbreviation": null,
+    "definition": "포타딘",
+    "additional_info": "환부를 소독할 때 쓰이는 짙은 갈색의 소독약",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Povidone iodine",
+    "abbreviation": null,
+    "definition": "포비돈 요오드",
+    "additional_info": "환부를 소독할 때 쓰이는 짙은 갈색의 소독약",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Lidocaine",
+    "abbreviation": null,
+    "definition": "리도카인",
+    "additional_info": "치과용 마취제, 주사기에 넣는 카트리지형 약병은 앰플(ampul)이다.",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Suction",
+    "abbreviation": null,
+    "definition": "흡인",
+    "additional_info": "흡입기로 입안의 침을 빼는 것이다.",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Retraction",
+    "abbreviation": null,
+    "definition": "리트랙션",
+    "additional_info": "구내조직이나 구외조직을 당겨 시야를 확보해주는 것이다.",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "High speed engine",
+    "abbreviation": null,
+    "definition": "고속엔진",
+    "additional_info": "치과에서 '윙-'하는 소음을 내며 치아를 깎는 기구로, 기구가 작동할 때는 물이 나오도록 설정되어 있다.",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Low speed engine",
+    "abbreviation": null,
+    "definition": "저속엔진",
+    "additional_info": "고속엔진보다 느리게 돌며 치아를 깎는 기구로, 충치부위를 제거할 때, 보철물을 연마할 때 등에 쓰인다. 기구가 작동할 때 물이 나오지 않는다.",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Straight angle",
+    "abbreviation": null,
+    "definition": "일직선앵글",
+    "additional_info": "직선모양으로 생긴 앵글로, 로우 스피드 엔진에 연결하여 사용한다.",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Air syringe",
+    "abbreviation": null,
+    "definition": "에어 시린지",
+    "additional_info": "치과 유니트 체어에 붙어 있으며 왼쪽 버튼을 누르면 물이, 오른쪽 버튼을 누르면 바람이, 같이 누르면 물과 바람이 나온다. 왼물오바(왼쪽은 물, 오른쪽은 바람)라고 외우면 쉽다.",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Gagging; Gag reflex",
+    "abbreviation": null,
+    "definition": "구토반응",
+    "additional_info": "구역질",
+    "category": "약재",
+    "용어구분2": "기타",
+    "importance": 1
+  },
+  {
+    "term": "Bis in die",
+    "abbreviation": "b.i.d",
+    "definition": "하루 두 번 복용",
+    "additional_info": null,
+    "category": "약복용",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Ter in die",
+    "abbreviation": "t.i.d",
+    "definition": "하루 세 번 복용",
+    "additional_info": null,
+    "category": "약복용",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Quarter in die",
+    "abbreviation": "q.i.d",
+    "definition": "하루 네 번 복용",
+    "additional_info": null,
+    "category": "약복용",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Hora somni",
+    "abbreviation": "h.s",
+    "definition": "취침 시 복용",
+    "additional_info": null,
+    "category": "약복용",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Bis in nocte (night)",
+    "abbreviation": "b.i.n",
+    "definition": "하룻밤에 2회 복용",
+    "additional_info": null,
+    "category": "약복용",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Quaque ~ hora",
+    "abbreviation": "q.~h",
+    "definition": "~시간마다 투약",
+    "additional_info": null,
+    "category": "약복용",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Quaque die",
+    "abbreviation": "q.d",
+    "definition": "매일 투약",
+    "additional_info": null,
+    "category": "약복용",
+    "용어구분2": null,
+    "importance": 0
+  },
+  {
+    "term": "Sealant",
+    "abbreviation": null,
+    "definition": "실란트",
+    "additional_info": "치아 표면은 매끈하지 않고 많은 흠이 존재한다. 이 부분은 칫솔로도 잘 닦이지 않고 세균이 남아있게 될 가능성이 높아 충치가 잘 발생하게 되는데, 이 홈을 충치가 생기기 전에 갈아내지 않고 플라스틱 계통의 복합 레진으로 메꾸는 치료이다.",
+    "category": "소아",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Fluoride application",
+    "abbreviation": null,
+    "definition": "불소 도포",
+    "additional_info": "구강내의 세균억제 작용을 하는 불소를 치아표면에 바르는 치료이다.",
+    "category": "소아",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Glass Ionomer",
+    "abbreviation": "GI",
+    "definition": "글래스 아이오노머",
+    "additional_info": "충치 치료의 보험가능한 재료로 불소를 방출하여 치아에 이롭고 재료 자체가 치아와 결합하는 능력을 지니고 있다. 강도는 레진보다 약하다.",
+    "category": "소아",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Band & Loop space maintainer",
+    "abbreviation": "SM",
+    "definition": "공간 유지 장치",
+    "additional_info": "충치가 생겨 공간이 생기거나 그 밖의 이유로 유치가 시기보다 먼저 빠지면 주변의 치아가 움직여 빈 공간으로 이동하는데 영구치가 나올 자리가 부족하게 되어 덧니가 나올 수 있다. 영구치가 나올 공간을 유지하기 위한 장치이다.",
+    "category": "소아",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "N2O-O2 Sedation",
+    "abbreviation": "Sedation",
+    "definition": "심리적 진정요법; 웃음가스",
+    "additional_info": "이산화질소와 산소를 일정 비율로 혼합하여 흡입하게 하여 사용한다. 치과에 대한 불안과 공포가 큰 경우, 구토 반사가 심한 경우의 환자에게 사용한다.",
+    "category": "소아",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Scaling",
+    "abbreviation": "S/C",
+    "definition": "스케일링",
+    "additional_info": "치석, 음식물 찌꺼기를 제거하고 치아 표면을 깨끗하게 연마하는 시술이다. S/C 후 치아가 시리다고 하기도 한다. 치석에 쌓이고 쌓여 잇몸이 내려가면서 치석을 제거하고 나니 그 부분이 텅 비게 되어 시릴 수 밖에 없다. S/C을 시기 내에 하지 않거나 잇몸 상태가 안 좋은 사람들에게 나타나는 현상이다.",
+    "category": "치주과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Root Planing",
+    "abbreviation": "RP",
+    "definition": "치근활택",
+    "additional_info": "치근에 부착된 치석과 백악질의 일부를 제거하는 술식으로, 꺠끗하고 매끈한 치근 표면을 얻는 것을 목적으로 한다. 마취는 필요한 경우에만 진행한다.",
+    "category": "치주과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Curettage",
+    "abbreviation": "Cu",
+    "definition": "치주 소파술",
+    "additional_info": "잇몸에 마취를 하고 치석과 염증 조직을 제거하는 술식이다.",
+    "category": "치주과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Flap Operation",
+    "abbreviation": "Flap op",
+    "definition": "잇몸 수술",
+    "additional_info": "스케일링, 치근 활택술, 치주소파술로도 치유되지 않는 중증의 잇몸질환을 치료하기 위해 수술을 시행한다. 잇몸을 절개하고 오픈시켜 치조골을 육안으로 확인하면서 모든 치석과 염증 세포들까지 다 제거를 하고 꿰멘다. 수술 도중 필요하면 인공 골재생술이나 잇몸 재생술도 같이 시행할 수도 있다.",
+    "category": "치주과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Crown Lengthening Procedure",
+    "abbreviation": "CLP",
+    "definition": "치관 연장술",
+    "additional_info": "잇몸을 잘라내어 치관의 길이를 연장하는 술식으로, 필요시 치조골 삭제도 시행한다.",
+    "category": "치주과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Hemisection",
+    "abbreviation": null,
+    "definition": "치근 분리술",
+    "additional_info": "치근 중에 살려 쓸 가망이 없는 치근만을 잘라내어 치아를 발치하지 않고 쓸 수 있는 방법이나, 임플란트가 발달하면서 근래에는 잘 시행하지 않는다.",
+    "category": "치주과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Calculus",
+    "abbreviation": null,
+    "definition": "치석",
+    "additional_info": "플라그가 침속의 칼슘(Ca), 인(P) 성분과 만나 딱딱하게 굳어진 것으로, 칫솔질로는 제거되지 않으며 기계적(스케일러)으로만 제거 가능하다. 잇몸 위쪽(치은연상치석)은 흰색이나 노란빛을 띠는 경우가 많으며 잇몸 안쪽(치은연하치석)은 검은색을 띠는 경우가 많다.",
+    "category": "치주과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Stain",
+    "abbreviation": null,
+    "definition": "착색",
+    "additional_info": "원인에 따라 검은색, 갈색, 녹색 등을 띤다.",
+    "category": "치주과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Plaque",
+    "abbreviation": null,
+    "definition": "치면세균막",
+    "additional_info": "치아의 표면에 세균들이 달라붙어 덩어리로 막을 형성하고 있는 것으로, 침이 많이 끈적거리는 사람일수록 플라그가 잘 생긴다.",
+    "category": "치주과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Resin",
+    "abbreviation": null,
+    "definition": "레진",
+    "additional_info": "치아의 색과 유사한 일종의 플라스틱으로 심미적인 치료에 사용되는 재료로 손상된 치아 부위가 비교적 크지 않거나 미적으로 잘 보이는 위치에 있는 경우 사용하는 재료이다.",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Resin filling",
+    "abbreviation": "RF",
+    "definition": "레진충전",
+    "additional_info": null,
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Diastema resin filling",
+    "abbreviation": null,
+    "definition": "치간공극치료",
+    "additional_info": "벌어진 치아 사이의 공간을 레진으로 메우는 치료",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cervical abrasion Resin filling",
+    "abbreviation": "CRF",
+    "definition": "치경부 마모 레진 수복",
+    "additional_info": null,
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Amalgam",
+    "abbreviation": "Am",
+    "definition": "아말감",
+    "additional_info": "아말감(금속과 수은의 합금), 수은과 은이 혼합된 재료이며 보험이 가능해  비용이 저렴하다. 중합수축에 의한 부식으로 2차 충치가 생길 수 있다. 심미적으로 좋지 않기 때문에 어금니 충치 치료 시 사용한다.",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Amalgam Filling",
+    "abbreviation": "A.F",
+    "definition": "아말감 충전",
+    "additional_info": null,
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Inlay",
+    "abbreviation": "In",
+    "definition": "인레이",
+    "additional_info": "손상된 부위를 대신해서 씹는 면의 일부분만 금, 레진, 도자기 등으로 채워넣는 치료이다.",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Onlay",
+    "abbreviation": "on",
+    "definition": "온레이",
+    "additional_info": "2개의 교두를 덮을 정도의 크기일 경우 적용되며, 큰 인레이라고 생각하면 된다.",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Gold Inlay/Onlay",
+    "abbreviation": "G.in/on",
+    "definition": "골드인레이/골드온레이",
+    "additional_info": null,
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Ceramic Inlay/Onlay",
+    "abbreviation": "C.in/on",
+    "definition": "세라믹 인레이/세라믹 온레이",
+    "additional_info": null,
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Resin Inlay/Onlay",
+    "abbreviation": "R.in/on",
+    "definition": "레진 인레이/레진 온레이",
+    "additional_info": null,
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Caries",
+    "abbreviation": null,
+    "definition": "충치, 치아우식증",
+    "additional_info": null,
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cavity",
+    "abbreviation": null,
+    "definition": "와동",
+    "additional_info": "치아의 병소 부위를 제거한 후 수복할 재료의 특성에 맞는 형태를 가지는 구조이다.",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Band retainer",
+    "abbreviation": null,
+    "definition": "밴드리테이너",
+    "additional_info": "인접면 충치 치료 시 사용하는 밴드를 끼우기 위한 장치이다. 주로 토플마이어가 쓰인다.",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Wedge",
+    "abbreviation": null,
+    "definition": "웻지",
+    "additional_info": "나무 조각으로 되어있는 치아 사이에 끼우는 재료",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Pulpotomy",
+    "abbreviation": null,
+    "definition": "치수절단술",
+    "additional_info": "치수의 일부만 절단하여 제거하는 치료법",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Pulpectomy",
+    "abbreviation": null,
+    "definition": "치수절제술",
+    "additional_info": "치근 내 치수조직까지 완전히 제거하는 치료법",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Endodontics",
+    "abbreviation": "Endo",
+    "definition": "신경치료",
+    "additional_info": "치아의 신경이 충치에 의해 감염되었을 때 하는 치료이다. 충치가 심해 치수까지 진행되었을 때 또는 외상으로 인해 치관이 부러져서 치수가 노출되었을 때 행하는 치료 방법이다. 치관 부위의 치수까지만 치료하는 방법과 치근의 근관까지 모두 치료하는 방법 두 가지가 있다. 이 둘 중 어떤 치료를 하더라도 모두 신경치료를 시행했을 때는 원칙적으로 인공 치관을 씌워줘야만 한다. 신경치료를 해야하는 이유에서나 충치제거를 위해서도 많은 부분을 삭제해야 하는데, 치료가 끝난 후 그냥 두면 남아 있는 치질이 얇아 깨져 버리기 쉽기 때문이다. 신경치료 후에 임시료 막는 재료는 Caviton, ZOE 등이 있다.",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Pulp Extirpation",
+    "abbreviation": "P.E",
+    "definition": "발수",
+    "additional_info": null,
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Canal Enlargement",
+    "abbreviation": "C.E",
+    "definition": "근관확대",
+    "additional_info": null,
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Canal Irrigation",
+    "abbreviation": "C.I",
+    "definition": "근관세척",
+    "additional_info": null,
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Canal Filling",
+    "abbreviation": "C.F or C/F",
+    "definition": "근관충전",
+    "additional_info": null,
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "CORE",
+    "abbreviation": null,
+    "definition": "코어",
+    "additional_info": "신경치료 후 크라운을 씌우기 전 와동을 치과용 재료로 메꾸는 것으로, 신경치료 후 POST or CORE를 한 상태에서 보철을 씌우지 않고 그 상태로 두면 치아가 깨질 우려가 있기 때문에 가급적 빨리 보철을 씌워줘야 한다.",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "PostCore",
+    "abbreviation": null,
+    "definition": "포스트(기둥) 코어",
+    "additional_info": "건강한 치아가 얼마 남지 않았을 때 치아뿌리 내에 기둥을 박고 그 위에 코어로 보강하는 치료로, 치아를 살리기 위해 할 수 있는 마지막 치료라고도 볼 수 있다. 이 상태에는 치료 완료 후에도 치아가 약할 수 있어 딱딱한 음식이나 과한 교합력을 조심해야 한다.",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Pulpitis",
+    "abbreviation": null,
+    "definition": "치수염",
+    "additional_info": "치수 내부에 발생한 염증",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Root Canal",
+    "abbreviation": "Canal",
+    "definition": "근관",
+    "additional_info": "모양에 따라서 C-shape canal, S-shape canal이라 부르기도 한다.",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Paper Point",
+    "abbreviation": "P.P",
+    "definition": "페이퍼 포인트",
+    "additional_info": "근관내를 건조시키는 일회용 재료",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Guttapercha Point",
+    "abbreviation": "G.P",
+    "definition": "가타퍼차 포인트",
+    "additional_info": "근관내를 충전하는 치과용 재료",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Stopper",
+    "abbreviation": null,
+    "definition": "스타퍼",
+    "additional_info": "재료를 퍼올리고, 다지기 좋게 만들어 놓은 기구",
+    "category": "보존과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Spoon excarbator",
+    "abbreviation": null,
+    "definition": "스푼 익스카베이터",
+    "additional_info": "충치치료 때 충치 부분을 제거하기 위해 쓰이는 기구로, 써지컬 큐렛과 비슷한 모양이지만 더 작다.",
+    "category": "보존과",
+    "용어구분2": "보존기구",
+    "importance": 1
+  },
+  {
+    "term": "Laminate Venner",
+    "abbreviation": "Lami",
+    "definition": "라미네이트 베니어",
+    "additional_info": "패션 손톱처럼 치아 표면에 붙여서 치아 모양을 예쁘게 해주는 치료이다.",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Crown Lengthening",
+    "abbreviation": "Cr.",
+    "definition": "인공치관, 금관",
+    "additional_info": "전체 씹는 면을 감싸주는 치료로ㅏ",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Bridge",
+    "abbreviation": "Br.",
+    "definition": "가공의치, 브릿지",
+    "additional_info": "빠진 치아를 수복해 주는 치료로, 치아가 하나 빠졌을 때 그 앞뒤 치아를 삭제하고 인공 치아와 삭제된 치아의 3개의 인공 치아를 해넣는 것을 말한다. 즉, 인공 치아를 하나 해 넣기 위해 인접 치아 2개의 표면을 삭제하고 각각 크라운을 만들면서 인공치아까지 한 덩어리로 만들어서 끼워 넣을 때 '브릿지를 한다'고 한다. \"Splint\"라고 부르기도 한다. 크라운이 2개 이상 붙어있으면 브릿지라고 하며 갯수에 따라 3개면 3번 브릿지, 6개면 6번 브릿지 혹은 3 Units, 6 Units 브릿지라고 한다.",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Temporary crown",
+    "abbreviation": "Temp. CR or Jacket",
+    "definition": "임시치아",
+    "additional_info": "보철물이 세팅되기 전 지대치를 보호하고 치아이동을 바이하기 위하여 임시로 제작된 보철물이다.",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Porcelain Fused to Metal Crown",
+    "abbreviation": "PFM.cr",
+    "definition": "(내부)메탈 도자기 크라운",
+    "additional_info": "내부가 메탈로 되어 있는 도자기 크라운이다. 잇몸과 보철이 맞닿는 부분이 푸르스름한 색을 띠는 경우가 있다. 금속 알레르기가 있는 경우 사용 불가하다.",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Porcelain Fused to Gold Crown",
+    "abbreviation": "PFG.cr",
+    "definition": "(내부)골드 도자기 크라운",
+    "additional_info": "내부가 골드로 되어 있는 도자기 크라운",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Zirconia Crown",
+    "abbreviation": "zir",
+    "definition": "지르코니아 크라운",
+    "additional_info": "산화 지르코니움으로 제작되어 크라운 부식에 강하고 생체친화성이 좋다(인공관절로도 사용됨). 심미적이고 강도가 강한 편이다.",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Gold Crown",
+    "abbreviation": "G.cr",
+    "definition": "골드크라운, 금니",
+    "additional_info": "금의 함량에 따른 분류 B type: 40% 이하, A type: 45%, Super-A(S-A) type: 53%, PT type: 70% 이상",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Stainless Steel Crown",
+    "abbreviation": "S.S.Cr.",
+    "definition": "스테인레스 크라운",
+    "additional_info": "스테인레스관의 치관으로 은색이다. 주로 유치의 크라운으로 쓰인다.",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Preparation",
+    "abbreviation": "Prep",
+    "definition": "프렙",
+    "additional_info": "보철을 하기 위해 이를 삭제하는 것",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Impression",
+    "abbreviation": "IMP",
+    "definition": "인상채득",
+    "additional_info": "인상재를 이용하여 본을 채득하는 것",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Temporary setting",
+    "abbreviation": "T/S",
+    "definition": "임시접착",
+    "additional_info": "Crown의 교합을 맞추고 임시로 접착하는 보철물 접착을 셋팅이라 하며 cementation(시멘트테이션)이라고도 한다. 임시접착제로 붙인 상태로 약 일주일 정도 사용해 보는 기간을 갖는데, 그 이유는 영구접착제는 한 번 붙이면 제거가 어렵기 때문이다.",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Final setting",
+    "abbreviation": "F/S",
+    "definition": "영구접착",
+    "additional_info": "T/S에서 괜찮았다면 완전 접착을 시행한다.",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Re-Cementation",
+    "abbreviation": null,
+    "definition": "재부착",
+    "additional_info": "보철물이 떨어졌을 경우 다시 부착하는 것이다.",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Margin",
+    "abbreviation": null,
+    "definition": "치아의 경께선",
+    "additional_info": "보철을 하기 위해 치아를 깎은 말단 경계선",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Pontic",
+    "abbreviation": null,
+    "definition": "인공치",
+    "additional_info": "치아가 상실된 브릿지의 경우 상실된 치아 부분을 메꾸어 주는 구조물",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cantilever, bridge",
+    "abbreviation": null,
+    "definition": "캔틸레버",
+    "additional_info": "지대치 크라운에 인공치를 매달은 브릿지",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Abutment teeth",
+    "abbreviation": null,
+    "definition": "지대치",
+    "additional_info": "크라운을 만들 치아",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Margin",
+    "abbreviation": null,
+    "definition": "접촉변연부",
+    "additional_info": "보철물에서 치아와 맞닿는 경계 부위",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Adaptation",
+    "abbreviation": "adap",
+    "definition": "적합",
+    "additional_info": "보철물이 지대치에 잘 맞는지 확인하는 척도",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Contact",
+    "abbreviation": null,
+    "definition": "간격",
+    "additional_info": "보철물과 치아 사이의 간격을 확인할 때 주로 사용하는 단어",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cap",
+    "abbreviation": null,
+    "definition": "캡",
+    "additional_info": "치아색 보철물의 내부에 있는 뼈대 역할을 하는 구조물로, 치아색 파우더를 입히기 전의 상태이다.",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cap Adaptation",
+    "abbreviation": "Cap adap",
+    "definition": "캡적합",
+    "additional_info": "크라운이 완성되기 전 캡을 맞춰보는 중간 과정",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Shade",
+    "abbreviation": null,
+    "definition": "색상",
+    "additional_info": "보철물이나 치아의 색상을 말한다.",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Shade guide",
+    "abbreviation": null,
+    "definition": "색상키트",
+    "additional_info": "치아색을 볼 수 있도록 해주는 여러가지 색상별 치아  샘플을 모아둔 것",
+    "category": "보철과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Wisdom tooth",
+    "abbreviation": null,
+    "definition": "사랑니; 지치",
+    "additional_info": "사랑니는 두 번째 어금니(제2대구치) 뒤에 나오는 세 번째 어금니(제3대구치)로 아예 없는 경우도 있고, 뼈 속에 감춰져서 나지 않는 경우, 제대로 맹출하는 경우, 반만 나오는 등 모습이 다양하다. 보통 십대 후반 또는 이십대 초반에 난다.",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Impacted tooth",
+    "abbreviation": null,
+    "definition": "매복치아",
+    "additional_info": "과잉치, 맹출공간부족, 맹출위치상 등 여러가지 이유로 잇몸 위로 맹출하지 못하고 잇몸 안에 묻혀 있는 치아",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Extraction",
+    "abbreviation": "Ext",
+    "definition": "발치",
+    "additional_info": "이를 뽑는 시술이다.",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Surg. Extraction",
+    "abbreviation": "Surg. Ext",
+    "definition": "수술발치",
+    "additional_info": "치은을 절개하고 치근을 분리하여 발치하거나 골삭제를 동반하여 시행한 발치",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Incision and Drainage",
+    "abbreviation": "I&D",
+    "definition": "구강내소염술",
+    "additional_info": "농양이 생겼는데 고름이 빠지지 못하고 계속 붓고 통증이 있을 때, 절개 및 절제를 통해 배농하는 시술로, 절개만 하고 귀가시키는 경우도 있고 배농을 할 수 있도록 치과재료(최근에는 누거즈 구입이 어려워 러버로 사용하는 경우도 있음)를 삽입해두고 귀가시키는 경우도 있다.",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Dressing",
+    "abbreviation": "dr or drs",
+    "definition": "소독",
+    "additional_info": null,
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Stitch Out",
+    "abbreviation": "S.O or S/O",
+    "definition": "실밥제거",
+    "additional_info": "봉합해둔 실을 빼내는 시술이다.",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Apicoectomy",
+    "abbreviation": "Apico",
+    "definition": "치근단절제술",
+    "additional_info": "치근단 주위 농양이나 낭종이 생긴 치아의 뿌리 끝 주변 치조골 염증조직을 제거하고, 치아뿌리 끝부분을 절단하는 외과적 수술이다. 시행한 후에는 재감염을 막기 위해 제거된 치아뿌리 끝 쪽에 구멍을 낸 다음 MTA등의 재료로 완전히 밀폐시킨다(근관역충전).",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Gingivectomy",
+    "abbreviation": null,
+    "definition": "치은절제술",
+    "additional_info": "심미적, 치료적 목적으로 잇몸을 절제하는 술식이다.",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Free Gingiva Graft",
+    "abbreviation": "FGG",
+    "definition": "유리치은이식술",
+    "additional_info": "부착치은의 폭을 증가 시키기 위해 입천장에서 잇몸을 떼어내어 이식하는 술식이다. 치주낭이 과하게 벌어지는 것을 막거나, 노출된 치근을 덮기 위해 치아 주변으로 부착치은을 이식한다. 임플란트 식립 후 임플란트 주변의 부착치은이 부족할 경우 시행하기도 한다.",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Implant",
+    "abbreviation": "IMPL",
+    "definition": "임플란트",
+    "additional_info": "치아가 없는 부위에 브릿지나 틀니를 하지 않고 이가 빠진 자리의 턱뼈에 인공 치근을 심고 그 위에 인공 보철물을 해 올리는 방법이다. 빠진 부분에만 인공적으로 보철물을 만들어 넣으며 그 인접 치아에는 손상을 주지 않는 최첨단 술식이다. 현재 성공률은 98%에 도달하고 있으며 전체 치료기간도 짧아지는 추세이다. 현재 대략 3-6개월 정도 걸리며 싱고 나서 바로 기능을 하는 당일 임플란트(원데이 임플란트)도 뼈의 상태에 따라 가능하다.",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Navigation Implant",
+    "abbreviation": "Navi.IMPL",
+    "definition": "네비게이션 임플란트",
+    "additional_info": "임플란트 수술 전 미리 식립할 위치를 파악하여 가이드를 만든 뒤 실제 수술 시 잇몸에 착용하여 수술하는 방법이다.",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Overdenture/Implant denture",
+    "abbreviation": null,
+    "definition": "임플란트 틀니",
+    "additional_info": "임플란트를 2-6개 정도 식립하여 틀니를 착탈할 수 있도록 하는 틀니 방법이며, 전체를 임플란트로 식립할 때의 부담감을 해소하면서 기존 틀니의 불편감을 개선해 주는 장치이다. 임플란트 틀니는 종류에 따라 탈부착식과 고정식이 있다.",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Bone graft",
+    "abbreviation": null,
+    "definition": "뼈이식술, 골이식술",
+    "additional_info": "임플란트를 심을 때 치조골의 폭이나 높이가 부족하면 골이식재를 이용하여 잇몸뼈의 양을 늘린 후에 임플란트를 식립하는 것이다. 임플란트의 성공률을 높여주기 위해 필요한 시술이다. 뼈의 두께와 깊이가 이상적인 임플란트 환자는 약 30% 이하로, 70% 이상의 환자들은 임플란트 시술을 위한 뼈의 양이 이상적이지 않다. 임플란트 수술을 시행하는 치과의사의 숙련도나 환자의 잇몸뼈와 잇몸의 상태, 그리고 전신건강에 따라 잇몸뼈의 양의 이상적이지 않더라도 뼈이식을 하지 않고 임플란트 수술을 진행하는 경우도 있지만, 잇몸뼈의 양은 나이가 들수록 점점 줄어들기 때문에 충분한 잇몸뼈가 있는 상태에서 임플란트 수술을 하는 것이 장기적 성공을 위해 중요하다. 골이식재료의 종류는 자가골, 동종골, 이종골, 합성골이 있다.",
+    "category": "구강외과",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Guided Bone Regeneration",
+    "abbreviation": "GBR",
+    "definition": "골유도재생술",
+    "additional_info": "임플란트를 심을 때 치조골의 목, 높이가 부족할 때 골이식재와 자폐막(membrane)을 이용하여 새로운 골이 생성될 수 있도록 유도하는 술식이다. 단순 뼈이식과 다르게 GBR은 골이식재 뿐만 아니라 치과용 차폐막(membrane)을 활용하여 광범위한 뼈의 수복을 목표로 하는 것이 특징이다.",
+    "category": "뼈이식",
+    "용어구분2": "bone graft",
+    "importance": 1
+  },
+  {
+    "term": "Membrane",
+    "abbreviation": null,
+    "definition": "차폐막",
+    "additional_info": "베이식 후 이식된 뼈가 흔들리고 무너져 내리지 않게 하기 위해서 고정해주는 재료",
+    "category": "뼈이식",
+    "용어구분2": "bone graft",
+    "importance": 1
+  },
+  {
+    "term": "Sinus elevation",
+    "abbreviation": null,
+    "definition": "상악동 거상술",
+    "additional_info": "상악동이란 코와 연결된 위턱뼈의 광대뼈 쪽에 비어있는 공간을 말한다. 위쪽 턱뼈 상부에 존재하는 부비동의 일종이며, 속이 비어있는 점막으로 둘러싸여 있다. 머리무게를 줄여주고 호흡을 통해 공기 중의 노폐물과 먼지를 걸러내며 소리의 공명을 만들어내는 역할을 하는 곳이다. 상악동 거상술이란 상악동 부분에 위치한 치아가 결손되거나 기능을 상실하여 임플란트 시술이 필요한데, 임플란트를 고정시켜 줄 충분한 양의 뼈가 존재하지 않을 경우에 시행한다. 상악에 임플란트를 식립하는 경우 술자는 10mm 정도의 임플란트를 심기를 원하는데, 그 미만으로 뼈가 남은 경우 기구를 이용하여 상악동 아래쪽 점막을 상방으로 들어올린 후 그 공간에 임플란트를 고정시켜줄 만큼의 충분한 뼈를 채워 넣는 골이식술의 일종이다.",
+    "category": "뼈이식",
+    "용어구분2": "bone graft",
+    "importance": 1
+  },
+  {
+    "term": "Crestal Approach",
+    "abbreviation": null,
+    "definition": "치조정접근법",
+    "additional_info": "임플란트 식립부위의 잔존 뼈의 양이 5mm 이상인 경우, 임플란트 수술부위의 압력을 통해 상악동막을 올린 후 뼈이식을 하는 방법",
+    "category": "뼈이식",
+    "용어구분2": "bone graft",
+    "importance": 1
+  },
+  {
+    "term": "Osteotomy",
+    "abbreviation": null,
+    "definition": "골절술",
+    "additional_info": "Osteotome이라는 기구를 사용하여 임플란트가 식립될 부위를 톡톡 쳐서 bone을 들어올려 상악동을 거상하는 방법이다. 오목한 osteotome을 이용해 골이식재를 사용하지 않고 상부의 잔존골을 소량 밀어 올리는 Osteotome Sinus Floor Elevation (OSFE)과 골이식재를 사용하는 Bone Added Osteotome Sinus Floor Elevation (BAOSFE)이 있다.",
+    "category": "뼈이식",
+    "용어구분2": "bone graft",
+    "importance": 1
+  },
+  {
+    "term": "Aqua Sinus elevation",
+    "abbreviation": null,
+    "definition": "수압거상방법",
+    "additional_info": "상악동막이 찢어지지 않도록 수압을 이용하여 상악동막을 거상하는 방법이다. Osteotomy 술식에서 사용되는 여러기구는 상악동막을 거상할 때 압력을 분산하지 못해서 상악동막이 찢어지는 경향이 있고, blind technique으로 내막의 상태를 알 수가 없는데, 수압거상의 방식은 압력을 골고루 분산하여 상악동 내막의 손상을 최소화하여 거상할 수 있고, 압력과 사용되는 액체(생리식염수 등)의 양에 따라 현재 수술의 정도 또는 상태를 알 수 있다.",
+    "category": "뼈이식",
+    "용어구분2": "bone graft",
+    "importance": 1
+  },
+  {
+    "term": "Lateral Approach",
+    "abbreviation": null,
+    "definition": "측벽접근법",
+    "additional_info": "임플란트 식립부위의 잔존 뼈의 양이 5mm 미만인 경우, 상악동을 거상시켜야 하는 부위의 양이 많기 때문에 치조정접근법으로 상악동거상을 하면 힘을 주는 곳이 한 군데로 집중되어 찢어질 수 있기 때문에, 위턱뼈의 잇몸을 드러낸 후, 측면에 구멍을 뚫고 뼈이식을 하는 방법이다. 많은 양의 골이식재를 채워 넣을 수 있고, 창문을 만들어 접근하는 것 같다고 하여 window opening(개창술)이라고도 한다.",
+    "category": "뼈이식",
+    "용어구분2": "bone graft",
+    "importance": 1
+  },
+  {
+    "term": "Ridge Split",
+    "abbreviation": null,
+    "definition": "치조골 분할술",
+    "additional_info": "치조골의 폭(순설, 협설)이 매우 얇을 때 치조골상부의 폭이 좁은 부분을 반으로 나눈 후, 벌려서 픽스쳐가 들어갈 공간을 확보 후 그 공간에 뼈이식을 해서 수평적 폭을 증대시키는 술식이다.",
+    "category": "뼈이식",
+    "용어구분2": "bone graft",
+    "importance": 1
+  },
+  {
+    "term": "Mouth mirror",
+    "abbreviation": "Mirror",
+    "definition": "마우스미러, 미러",
+    "additional_info": null,
+    "category": "기본기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Explorer",
+    "abbreviation": null,
+    "definition": "익스플로러",
+    "additional_info": null,
+    "category": "기본기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Pincette",
+    "abbreviation": null,
+    "definition": "핀셋",
+    "additional_info": null,
+    "category": "기본기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Plastic suction tip",
+    "abbreviation": null,
+    "definition": "플라스틱 석션팁",
+    "additional_info": null,
+    "category": "기본기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Metal suction tip",
+    "abbreviation": null,
+    "definition": "메탈 석션팁",
+    "additional_info": null,
+    "category": "기본기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Scaler tip",
+    "abbreviation": null,
+    "definition": "스켈러팁",
+    "additional_info": null,
+    "category": "치주기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Periodontal probe",
+    "abbreviation": null,
+    "definition": "페리오돈탈 프루브",
+    "additional_info": null,
+    "category": "치주기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Curette",
+    "abbreviation": null,
+    "definition": "큐렛",
+    "additional_info": null,
+    "category": "치주기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Forcep",
+    "abbreviation": null,
+    "definition": "포셉",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Elevator",
+    "abbreviation": null,
+    "definition": "엘리베이터",
+    "additional_info": "Straight와 curved elevator가 있다.",
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Root picker",
+    "abbreviation": null,
+    "definition": "루트픽커",
+    "additional_info": "Straight와 curved elevator가 있다.",
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Surgical curette",
+    "abbreviation": null,
+    "definition": "써지컬큐렛",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Blade holder; Mes holder",
+    "abbreviation": null,
+    "definition": "블레이드 홀더, 메스 홀더",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Surgical bur",
+    "abbreviation": null,
+    "definition": "서지컬버",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Bone rongeur",
+    "abbreviation": null,
+    "definition": "본론져",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Osteotome",
+    "abbreviation": null,
+    "definition": "오스테오톰",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Mallet",
+    "abbreviation": null,
+    "definition": "말렛",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Chisel",
+    "abbreviation": null,
+    "definition": "치즐",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Surgical sutrures",
+    "abbreviation": null,
+    "definition": "수술용 봉합사",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Tissue forcep",
+    "abbreviation": null,
+    "definition": "티슈포셉",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Needle holder",
+    "abbreviation": null,
+    "definition": "니들홀더",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Scissor",
+    "abbreviation": null,
+    "definition": "씨져",
+    "additional_info": null,
+    "category": "외과기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Hemostat",
+    "abbreviation": null,
+    "definition": "헤모스타트",
+    "additional_info": "혈관을 잡아 지혈을 돕는 기구이다. 임상에서는 외과수술 시 조직을 제거하거나 고정할 때, 거즈같은 수술용 재료를 잡는 용도로 활용하기도 한다.",
+    "category": "외과기구",
+    "용어구분2": "보철기구",
+    "importance": 1
+  },
+  {
+    "term": "Stopper",
+    "abbreviation": null,
+    "definition": "스타퍼",
+    "additional_info": null,
+    "category": "보철기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Crown gripper",
+    "abbreviation": null,
+    "definition": "크라운 그리퍼",
+    "additional_info": null,
+    "category": "보철기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Pocelain crown gripper",
+    "abbreviation": null,
+    "definition": "포세린 크라운 그리퍼",
+    "additional_info": null,
+    "category": "보철기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Inlay setter",
+    "abbreviation": null,
+    "definition": "인레이쎄터",
+    "additional_info": null,
+    "category": "보철기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Mixing spatula; Cement spatula",
+    "abbreviation": null,
+    "definition": "믹싱스파튤라",
+    "additional_info": "ZPC나 그 외의 cement mixing 시 사용",
+    "category": "보철기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Caliper",
+    "abbreviation": null,
+    "definition": "캘리퍼",
+    "additional_info": "크라운 게이지라고도 한다. 보철의 두께나 세밀한 길이를 측정할 때 주로 사용된다.",
+    "category": "보철기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Cord packer",
+    "abbreviation": null,
+    "definition": "코드팩커",
+    "additional_info": "스푼 익스카베이터는 귀이개처럼 굴곡이 많이 있지만 코드패커는 거의 편평하다.",
+    "category": "보철기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Wax spatula",
+    "abbreviation": null,
+    "definition": "왁스 스파튤라",
+    "additional_info": "Wax up이나 Carving 시 사용",
+    "category": "보철기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Ejector",
+    "abbreviation": null,
+    "definition": "이젝터",
+    "additional_info": "보철과에서는 심스탁홀더로 사용",
+    "category": "보철기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Articulating paper holder",
+    "abbreviation": null,
+    "definition": "교합지홀더",
+    "additional_info": "크라운을 빼낼 때 사용한다. Tip은 single crown용과 bridge crown 용이 있다.",
+    "category": "보철기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Resin applicator",
+    "abbreviation": null,
+    "definition": "레진 어플리케이터",
+    "additional_info": null,
+    "category": "보존기구",
+    "용어구분2": null,
+    "importance": 1
+  },
+  {
+    "term": "Amalgam carrier",
+    "abbreviation": null,
+    "definition": "아말감 캐리어",
+    "additional_info": null,
+    "category": "보존기구",
+    "용어구분2": null,
+    "importance": 1
+  }
+]
