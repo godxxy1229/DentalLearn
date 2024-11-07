@@ -44,7 +44,7 @@ function loadNewWord() {
 
 // 사용자의 답을 Gemini API를 사용해 평가
 function evaluateAnswer(answer) {
-  const apiKey = atob(encodedAPIKey);
+  const apiKey = 'YOUR_GEMINI_API_KEY';
   const model = 'gemini-1.5-flash-latest';
   const strictness = strictnessSelect.value;
 
@@ -53,11 +53,13 @@ function evaluateAnswer(answer) {
     다음 설명에 해당하는 용어는 무엇입니까?
     설명: ${currentWord.definition}
     사용자 답변: ${answer}
-    ${strictness === 'lenient' ? '비슷한 답변도 인정하세요.' : '정확한 답변만 정답으로 인정하세요.'}
+    ${strictness === 'lenient' ? '비슷한 답변도 인정해주세요.' : '정확한 답변만 정답으로 인정해주세요.'}
   `;
 
   // Gemini API 요청
-  fetch(`https://generativelanguage.googleapis.com/v1beta2/models/${model}:generateText?key=${apiKey}`, {
+  const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
+
+  fetch(API_URL, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
