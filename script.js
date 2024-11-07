@@ -45,7 +45,7 @@ function loadNewWord() {
 // 사용자의 답을 Gemini API를 사용해 평가
 function evaluateAnswer(answer) {
   const apiKey = atob(encodedAPIKey);
-  const model = 'gemini-1.5-flash';
+  const model = 'gemini-1.5-flash-latest';
   const strictness = strictnessSelect.value;
   
   // 평가 프롬프트 설정
@@ -57,7 +57,7 @@ function evaluateAnswer(answer) {
   `;
 
   // Gemini API 요청
-  fetch(`https://generativelanguage.googleapis.com/v1beta2/models/${model}:generateText?key=${apiKey}`, {
+  fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateText?key=${apiKey}`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
