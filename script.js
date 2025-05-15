@@ -8,7 +8,7 @@ const saveProgressButton = document.getElementById('save-progress');
 const loadProgressButton = document.getElementById('load-progress');
 const difficultySelect = document.getElementById('difficulty');
 const strictnessSelect = document.getElementById('strictness');
-const encodedAPIKey = "QUl6YVN5RERHMDdNSk5vdW56YlVsQ1JuYnlhcHdfYnZaeTlvQV93";
+const encodedAPIKey = "QUl6YVN5RERHMDdNSk5vdW56YlVsQ1JuYnlhcHdfYnZaeTlvQV92";
 
 // 학습할 단어 목록
 let words = [];
